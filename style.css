@@ -208,6 +208,14 @@ div>h2 {
     height: 50px;
     font-size: 1.2em;
   }
+
+  .art3 {
+    height: 800px;
+  }
+
+  .linkedin, .viadeo {
+    margin-bottom: 20px;
+  }
 }
 
 /*-------------------------------
